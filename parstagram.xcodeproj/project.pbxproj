@@ -66,6 +66,7 @@
 		EA7B8C862607F5900007BF41 /* parstagramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = parstagramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA7B8C8A2607F5900007BF41 /* parstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parstagramUITests.swift; sourceTree = "<group>"; };
 		EA7B8C8C2607F5900007BF41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EAB75A41260D8D8F00D28772 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EADA560626081F9800527ADA /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		EADA560B26081FA600527ADA /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		EAEAE2300C4B69BADDAD6ABC /* Pods_parstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_parstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -115,6 +116,7 @@
 		EA7B8C592607F58F0007BF41 = {
 			isa = PBXGroup;
 			children = (
+				EAB75A41260D8D8F00D28772 /* README.md */,
 				EA7B8C642607F58F0007BF41 /* parstagram */,
 				EA7B8C7E2607F5900007BF41 /* parstagramTests */,
 				EA7B8C892607F5900007BF41 /* parstagramUITests */,
