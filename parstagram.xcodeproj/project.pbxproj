@@ -18,6 +18,7 @@
 		EA7B8C752607F5900007BF41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA7B8C732607F5900007BF41 /* LaunchScreen.storyboard */; };
 		EA7B8C802607F5900007BF41 /* parstagramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7B8C7F2607F5900007BF41 /* parstagramTests.swift */; };
 		EA7B8C8B2607F5900007BF41 /* parstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7B8C8A2607F5900007BF41 /* parstagramUITests.swift */; };
+		EA827EF3261F8F9700BDD2E8 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA827EF2261F8F9700BDD2E8 /* CommentCell.swift */; };
 		EADA560726081F9800527ADA /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EADA560626081F9800527ADA /* LoginViewController.swift */; };
 		EADA560C26081FA600527ADA /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EADA560B26081FA600527ADA /* FeedViewController.swift */; };
 		FC280FCE7B9AF0743D12D780 /* Pods_parstagramTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DE92D8EB4B3BA692588CF3 /* Pods_parstagramTests.framework */; };
@@ -66,6 +67,7 @@
 		EA7B8C862607F5900007BF41 /* parstagramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = parstagramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA7B8C8A2607F5900007BF41 /* parstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parstagramUITests.swift; sourceTree = "<group>"; };
 		EA7B8C8C2607F5900007BF41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA827EF2261F8F9700BDD2E8 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		EAB75A41260D8D8F00D28772 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EADA560626081F9800527ADA /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		EADA560B26081FA600527ADA /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 				EADA560B26081FA600527ADA /* FeedViewController.swift */,
 				EA56DF4426084B0700AAC76E /* CameraViewController.swift */,
 				EA56DF75260857FF00AAC76E /* PostCell.swift */,
+				EA827EF2261F8F9700BDD2E8 /* CommentCell.swift */,
 			);
 			path = parstagram;
 			sourceTree = "<group>";
@@ -427,6 +430,7 @@
 				EA7B8C662607F58F0007BF41 /* AppDelegate.swift in Sources */,
 				EA7B8C682607F58F0007BF41 /* SceneDelegate.swift in Sources */,
 				EA56DF4526084B0700AAC76E /* CameraViewController.swift in Sources */,
+				EA827EF3261F8F9700BDD2E8 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
